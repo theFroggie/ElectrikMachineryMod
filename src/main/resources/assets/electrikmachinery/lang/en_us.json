@@ -1,0 +1,79 @@
+{
+  "item.electrikmachinery.steel_ingot": "steel ingot",
+  "item.electrikmachinery.copper_ingot": "copper ingot",
+  "item.electrikmachinery.aluminium_ingot": "aluminium ingot",
+  "item.electrikmachinery.lead_ingot": "lead ingot",
+  "item.electrikmachinery.nickel_ingot": "nickel ingot",
+  "item.electrikmachinery.plastic_sheet": "plastic sheet",
+
+  "item.electrikmachinery.steel_sword": "steel sword",
+  "item.electrikmachinery.steel_pickaxe": "steel pickaxe",
+  "item.electrikmachinery.steel_axe": "steel axe",
+  "item.electrikmachinery.steel_shovel": "steel shovel",
+  "item.electrikmachinery.steel_hoe": "steel hoe",
+
+  "item.electrikmachinery.steel_helmet": "steel helmet",
+  "item.electrikmachinery.steel_chestplate": "steel chestplate",
+  "item.electrikmachinery.steel_leggings": "steel leggings",
+  "item.electrikmachinery.steel_boots": "steel boots",
+
+  "item.electrikmachinery.copper_sword": "copper sword",
+  "item.electrikmachinery.copper_pickaxe": "copper pickaxe",
+  "item.electrikmachinery.copper_axe": "copper axe",
+  "item.electrikmachinery.copper_shovel": "copper shovel",
+  "item.electrikmachinery.copper_hoe": "copper hoe",
+
+  "item.electrikmachinery.copper_helmet": "copper helmet",
+  "item.electrikmachinery.copper_chestplate": "copper chestplate",
+  "item.electrikmachinery.copper_leggings": "copper leggings",
+  "item.electrikmachinery.copper_boots": "copper boots",
+
+  "item.electrikmachinery.lead_sword": "lead sword",
+  "item.electrikmachinery.lead_pickaxe": "lead pickaxe",
+  "item.electrikmachinery.lead_axe": "lead axe",
+  "item.electrikmachinery.lead_shovel": "lead shovel",
+  "item.electrikmachinery.lead_hoe": "lead hoe",
+
+  "item.electrikmachinery.lead_helmet": "lead helmet",
+  "item.electrikmachinery.lead_chestplate": "lead chestplate",
+  "item.electrikmachinery.lead_leggings": "lead leggings",
+  "item.electrikmachinery.lead_boots": "lead boots",
+
+  "item.electrikmachinery.nickel_sword": "nickel sword",
+  "item.electrikmachinery.nickel_pickaxe": "nickel pickaxe",
+  "item.electrikmachinery.nickel_axe": "nickel axe",
+  "item.electrikmachinery.nickel_shovel": "nickel shovel",
+  "item.electrikmachinery.nickel_hoe": "nickel hoe",
+
+  "item.electrikmachinery.nickel_helmet": "nickel helmet",
+  "item.electrikmachinery.nickel_chestplate": "nickel chestplate",
+  "item.electrikmachinery.nickel_leggings": "nickel leggings",
+  "item.electrikmachinery.nickel_boots": "nickel boots",
+
+  "item.electrikmachinery.aluminium_sword": "aluminium sword",
+  "item.electrikmachinery.aluminium_pickaxe": "aluminium pickaxe",
+  "item.electrikmachinery.aluminium_axe": "aluminium axe",
+  "item.electrikmachinery.aluminium_shovel": "aluminium shovel",
+  "item.electrikmachinery.aluminium_hoe": "aluminium hoe",
+
+  "item.electrikmachinery.aluminium_helmet": "aluminium helmet",
+  "item.electrikmachinery.aluminium_chestplate": "aluminium chestplate",
+  "item.electrikmachinery.aluminium_leggings": "aluminium leggings",
+  "item.electrikmachinery.aluminium_boots": "aluminium boots",
+
+  "block.electrikmachinery.steel_block": "steel block",
+  "block.electrikmachinery.copper_block": "copper block",
+  "block.electrikmachinery.lead_block": "lead block",
+  "block.electrikmachinery.nickel_block": "nickel block",
+  "block.electrikmachinery.aluminium_block": "aluminium block",
+
+  "block.electrikmachinery.aluminium_ore": "aluminium ore",
+  "block.electrikmachinery.copper_ore": "copper ore",
+  "block.electrikmachinery.lead_ore": "lead ore",
+  "block.electrikmachinery.nickel_ore": "nickel ore",
+
+  "itemGroup.electrikMachineryBlockTab": "Electrik Machinery blocks",
+  "itemGroup.electrikMachineryEquipmentTab": "Electrik Machinery equipments",
+  "itemGroup.electrikMachineryItemTab": "Electrik Machinery items",
+  "itemGroup.electrikMachineryFoodTab": "Electrik Machinery foods"
+}

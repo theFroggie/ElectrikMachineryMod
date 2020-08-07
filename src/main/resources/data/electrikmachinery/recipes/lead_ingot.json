@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "electrikmachinery:lead_block"
+    }
+  ],
+  "result":
+  {
+    "item": "electrikmachinery:lead_ingot",
+    "count": 9
+  }
+}

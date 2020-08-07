@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XX",
+    " #",
+    " #"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "X": {
+      "item": "electrikmachinery:lead_ingot"
+    }
+  },
+  "result": {
+    "item": "electrikmachinery:lead_hoe"
+  }
+}

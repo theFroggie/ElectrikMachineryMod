@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XX",
+    " #",
+    " #"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "X": {
+      "item": "electrikmachinery:nickel_ingot"
+    }
+  },
+  "result": {
+    "item": "electrikmachinery:nickel_hoe"
+  }
+}

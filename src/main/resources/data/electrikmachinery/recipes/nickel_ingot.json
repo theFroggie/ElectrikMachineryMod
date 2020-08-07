@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "electrikmachinery:nickel_block"
+    }
+  ],
+  "result":
+  {
+    "item": "electrikmachinery:nickel_ingot",
+    "count": 9
+  }
+}

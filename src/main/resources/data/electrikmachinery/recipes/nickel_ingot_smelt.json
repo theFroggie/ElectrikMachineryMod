@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "electrikmachinery:nickel_ore"
+  },
+  "result": "electrikmachinery:nickel_ingot",
+  "experience": 5.0,
+  "cookingtime": 200
+}
